@@ -1,0 +1,21 @@
+.contenedor{
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 2rem;
+    width: 75%;
+    padding: 1rem;
+    gap: 1rem;
+  }
+  
+
+  
+  .detalles-user{
+    padding: 5px;
+    height: auto;
+    font-size:x-large;
+  }
+
+  p, h5{
+    margin-top: 10px;
+  }

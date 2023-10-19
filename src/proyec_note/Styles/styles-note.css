@@ -1,0 +1,32 @@
+.img-logo{
+    width: 100px;
+    height: 200px;
+}
+
+.aplication-talk{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.container-list h2{
+    color: black;
+    text-align: center;
+    font-weight: 600;
+    font-size: 25px;
+    font-family: Roboto, sans-serif;
+}
+
+/* Lista de areas */
+.container-list{
+    width: 600px;
+    min-height: 500px;
+    background-color: #d0d0d5;
+    padding: 25px;
+    margin: 10px;
+    justify-content: center;
+    border-radius: 26px;
+}

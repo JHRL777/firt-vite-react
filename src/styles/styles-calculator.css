@@ -1,0 +1,51 @@
+.main-calculator{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    background-color: rgb(216, 216, 216);
+}
+
+.filas{
+    padding: 0.3rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.5rem;
+}
+
+.buttonCalculater{
+    width: 100px;
+    height: 100px;
+    font-size: 47px;
+}
+
+.buttonCalculater:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+.unputCalculater{
+    padding: 1rem;
+    height: 40px;
+    font-size: 30px;
+    direction: rtl;
+}
+
+.filass{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+
+}
+
+.buttons{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    gap: 2rem;
+}
+
+.button{
+    position:static;
+
+    
+}

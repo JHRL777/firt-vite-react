@@ -1,0 +1,19 @@
+.Incio, .reinicio{
+    width: 10rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.Incio:hover,.reinicio:hover {
+    background-color: rgb(205, 231, 231);
+}
+
+.number{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    text-align: center;
+    padding: 1rem;
+    font-size: 7rem;
+}
